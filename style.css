@@ -1,14 +1,3 @@
-.header{
-    background-color: rgb(113, 233, 233);
-    margin-top: 3%;
-    padding: 3%;
-}
-
-
-body{
-    background-image: url(r34.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    
-   
+h1{
+    color: red;
 }
